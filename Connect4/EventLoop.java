@@ -1,4 +1,4 @@
-package ConnectFour;
+package Connect4;
 
 public class EventLoop {
 

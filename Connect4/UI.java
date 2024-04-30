@@ -1,4 +1,4 @@
-package ConnectFour;
+package Connect4;
 import java.util.Scanner;
 import java.util.InputMismatchException;
 
